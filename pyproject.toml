@@ -1,0 +1,10 @@
+[project]
+name = "elec-wise"
+version = "0.1.0"
+description = "An agentic tool that helps to use electricity wisely to support in managing power grid and decarbonisation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-adk>=1.19.0",
+    "python-dotenv>=1.2.1",
+]
